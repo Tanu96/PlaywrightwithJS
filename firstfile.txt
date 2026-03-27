@@ -1,0 +1,2 @@
+Hi this is my first txt file.
+we config the git and create one repo.
